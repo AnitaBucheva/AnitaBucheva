@@ -12,4 +12,4 @@
 AnitaBucheva/AnitaBucheva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://github.com/AnitaBucheva/AnitaBucheva/assets/129854044/982fc38c-8215-4e44-a18f-7c497a7e7e5f)
+
