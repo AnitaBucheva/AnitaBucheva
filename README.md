@@ -1,8 +1,8 @@
 👋 Hi, I’m Anita Bucheva!
 
-👀 I’m interested in Java Script, HTML and CSS, Front-end and Back-end and QA...
+👀 I’m interested in Java Script, HTML and CSS, Front-end and Back-end, QA and C#...
 
-🌱 I’m currently learning Java Script Application and QA in SoftUni!
+🌱 I’m currently learning Java Script, C# and QA in SoftUni!
 
 💞️ I’m looking to collaborate on on the development of new projects!
 
